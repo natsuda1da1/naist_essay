@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  11 MAR 2023 21:35
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  14 MAR 2023 16:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -480,6 +480,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[][]\OT1/cmr/m/n/8 https://huggingface.co/cl-tohoku/bert-base-japanese-whole-
+ []
+
 (./svg-inkscape/detector_svg-tex.eps_tex
 File: ./svg-inkscape/detector_svg-tex.eps Graphic file (type eps)
  <./svg-inkscape/detector_svg-tex.eps>)
@@ -521,4 +525,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  94i,13n,92p,1001b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on naist_essay.dvi (2 pages, 27464 bytes).
+Output written on naist_essay.dvi (2 pages, 27600 bytes).
