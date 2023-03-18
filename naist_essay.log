@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  14 MAR 2023 16:49
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  18 MAR 2023 13:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -399,27 +399,31 @@ File: l3backend-dvips.def 2022-10-26 L3 backend support: dvips
 \g__pdf_backend_link_int=\count288
 \g__pdf_backend_link_sf_int=\count289
 )
+
+LaTeX Warning: Unused global option(s):
+    [10.5pt].
+
 (./naist_essay.aux)
 \openout1 = `naist_essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -429,15 +433,15 @@ LaTeX Font Info:    ... okay on input line 34.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(93.89409pt, 725.54529pt, 25.60747pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=509.30432pt
-* \textheight=702.78308pt
-* \oddsidemargin=-27.0301pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-38.1381pt
+* \textwidth=540.60239pt
+* \textheight=725.54529pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-37.5192pt
 * \headheight=34.1433pt
 * \headsep=25.0pt
 * \topskip=7.77588pt
@@ -456,32 +460,33 @@ LaTeX Font Info:    ... okay on input line 34.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 47.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 47.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 55.
 LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
-(Font)              No change on input line 63.
+(Font)              No change on input line 71.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 71.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 71.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 79.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[][]\OT1/cmr/m/n/8 https://huggingface.co/cl-tohoku/bert-base-japanese-whole-
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[][]\OT1/cmr/m/n/8 https://huggingface.co/cl-tohoku/bert-base-japanese-whole-wo
+rd-
  []
 
 (./svg-inkscape/detector_svg-tex.eps_tex
@@ -497,32 +502,48 @@ File: ./svg-inkscape/lattice_svg-tex.eps Graphic file (type eps)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+Overfull \hbox (122.34871pt too wide) has occurred while \output is active
+ [][]|
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (34.1433pt): 
-(fancyhdr)                Make it at least 47.17917pt, for example:
-(fancyhdr)                \setlength{\headheight}{47.17917pt}.
+(fancyhdr)                Make it at least 42.91144pt, for example:
+(fancyhdr)                \setlength{\headheight}{42.91144pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-13.03587pt}.
+(fancyhdr)                \addtolength{\topmargin}{-8.76814pt}.
 
 [1
 
 ]
+! Missing } inserted.
+<inserted text> 
+                }
+l.127 \end{thebibliography}
+                           
+? 
+
+Overfull \hbox (122.34871pt too wide) has occurred while \output is active
+ [][]|
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (34.1433pt): 
-(fancyhdr)                Make it at least 47.17917pt, for example:
-(fancyhdr)                \setlength{\headheight}{47.17917pt}.
+(fancyhdr)                Make it at least 42.91144pt, for example:
+(fancyhdr)                \setlength{\headheight}{42.91144pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-13.03587pt}.
+(fancyhdr)                \addtolength{\topmargin}{-8.76814pt}.
 
 [2] (./naist_essay.aux) ) 
 Here is how much of TeX's memory you used:
- 6588 strings out of 475430
- 117920 string characters out of 5788199
- 534474 words of memory out of 5000000
- 28130 multiletter control sequences out of 15000+600000
+ 6589 strings out of 475430
+ 117929 string characters out of 5788199
+ 535356 words of memory out of 5000000
+ 28131 multiletter control sequences out of 15000+600000
  482335 words of font info for 81 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  94i,13n,92p,1001b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on naist_essay.dvi (2 pages, 27600 bytes).
+Output written on naist_essay.dvi (2 pages, 28104 bytes).
