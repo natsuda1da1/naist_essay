@@ -1,5 +1,6 @@
 *
 
 !.gitignore
-!*.pdf
-!*.tex
+!naist_essay.pdf
+!naist_essay.tex
+
